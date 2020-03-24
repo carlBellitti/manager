@@ -18,7 +18,7 @@ To develop, motivate and empower people with the necessary tools to provide the 
 ## How I like to Communicate
  - I have an Open Door Policy
  - I conduct weekly 1:1s with documented history with feedback specific to you and your goals
- - I Prefer eMail/slack for any of your issues/ideas/suggestions so that I have time to carefully analyze come up with the best possible feedback prior to meeting directly to discuss
+ - I prefer eMail/slack for any of your issues/ideas/suggestions so that I have time to carefully analyze come up with the best possible feedback prior to meeting directly to discuss
 
 ## Expectations
  - In general it will be largely up to me to adapt to you, I don't expect you to have to completely change your routine just because you have a new manager.
